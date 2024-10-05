@@ -1,0 +1,13 @@
+/* 全局el-table thead样式 */
+.el-table thead {
+    font-size: 20px;
+  }
+  
+.el-table__body-wrapper {
+    font-size: 18px;
+ }
+
+ /* 全局el-sub-menu样式 */
+.el-sub-menu__title {
+  height: 70px;
+}
